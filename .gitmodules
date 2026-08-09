@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BCGcalc"]
+	path = BCGcalc
+	url = https://github.com/leppott/bcgcalc
 [submodule "BioMonTools"]
 	path = BioMonTools
 	url = https://github.com/leppott/biomontools
